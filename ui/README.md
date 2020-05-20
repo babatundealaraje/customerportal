@@ -10,4 +10,12 @@ In the project directory, you can run:
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-![Customer Portal UI](master/customerPortal.png)
+# Customer Portal UI
+
+<br>
+<img height="700" src="https://github.com/babatundealaraje/customerportal/blob/master/ui/customerPortal.png">
+</br>
+
+<br>
+<img height="700" src="https://github.com/babatundealaraje/customerportal/blob/master/ui/monthlyView.png">
+</br>
