@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Installation
-
+Ensure the api is started and running on http://localhost:8080 (API is located in api folder on this repository)
 In the project directory, you can run:
 
 ### `npm install`
