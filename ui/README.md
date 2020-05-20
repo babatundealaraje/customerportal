@@ -2,6 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Installation
 Ensure the api is started and running on http://localhost:8080 (API is located in api folder on this repository)
+
 In the project directory, you can run:
 
 ### `npm install`
